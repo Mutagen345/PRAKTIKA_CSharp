@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32901.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZADACHA1", "ZADACHA1\ZADACHA1.csproj", "{AA296CA6-9881-46AC-8E58-B5BE4B574986}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZADACHA2", "ZADACHA2\ZADACHA2.csproj", "{CFF682A7-1C00-47B8-A166-0038DB9FB1A1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZADACHA3", "ZADACHA3\ZADACHA3.csproj", "{9B29A8C0-236F-4206-9C9C-155E5216040B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AA296CA6-9881-46AC-8E58-B5BE4B574986}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA296CA6-9881-46AC-8E58-B5BE4B574986}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA296CA6-9881-46AC-8E58-B5BE4B574986}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA296CA6-9881-46AC-8E58-B5BE4B574986}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CFF682A7-1C00-47B8-A166-0038DB9FB1A1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CFF682A7-1C00-47B8-A166-0038DB9FB1A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CFF682A7-1C00-47B8-A166-0038DB9FB1A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CFF682A7-1C00-47B8-A166-0038DB9FB1A1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9B29A8C0-236F-4206-9C9C-155E5216040B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B29A8C0-236F-4206-9C9C-155E5216040B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B29A8C0-236F-4206-9C9C-155E5216040B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B29A8C0-236F-4206-9C9C-155E5216040B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {764956E3-71E6-4CBE-BABC-CD206F817F84}
+	EndGlobalSection
+EndGlobal
