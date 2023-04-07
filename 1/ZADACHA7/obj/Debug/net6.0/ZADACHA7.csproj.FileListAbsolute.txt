@@ -1,0 +1,15 @@
+D:\PRAKTIKA\PRAKTIKA_C-\1\ZADACHA7\bin\Debug\net6.0\ZADACHA7.exe
+D:\PRAKTIKA\PRAKTIKA_C-\1\ZADACHA7\bin\Debug\net6.0\ZADACHA7.deps.json
+D:\PRAKTIKA\PRAKTIKA_C-\1\ZADACHA7\bin\Debug\net6.0\ZADACHA7.runtimeconfig.json
+D:\PRAKTIKA\PRAKTIKA_C-\1\ZADACHA7\bin\Debug\net6.0\ZADACHA7.dll
+D:\PRAKTIKA\PRAKTIKA_C-\1\ZADACHA7\bin\Debug\net6.0\ZADACHA7.pdb
+D:\PRAKTIKA\PRAKTIKA_C-\1\ZADACHA7\obj\Debug\net6.0\ZADACHA7.csproj.AssemblyReference.cache
+D:\PRAKTIKA\PRAKTIKA_C-\1\ZADACHA7\obj\Debug\net6.0\ZADACHA7.GeneratedMSBuildEditorConfig.editorconfig
+D:\PRAKTIKA\PRAKTIKA_C-\1\ZADACHA7\obj\Debug\net6.0\ZADACHA7.AssemblyInfoInputs.cache
+D:\PRAKTIKA\PRAKTIKA_C-\1\ZADACHA7\obj\Debug\net6.0\ZADACHA7.AssemblyInfo.cs
+D:\PRAKTIKA\PRAKTIKA_C-\1\ZADACHA7\obj\Debug\net6.0\ZADACHA7.csproj.CoreCompileInputs.cache
+D:\PRAKTIKA\PRAKTIKA_C-\1\ZADACHA7\obj\Debug\net6.0\ZADACHA7.dll
+D:\PRAKTIKA\PRAKTIKA_C-\1\ZADACHA7\obj\Debug\net6.0\refint\ZADACHA7.dll
+D:\PRAKTIKA\PRAKTIKA_C-\1\ZADACHA7\obj\Debug\net6.0\ZADACHA7.pdb
+D:\PRAKTIKA\PRAKTIKA_C-\1\ZADACHA7\obj\Debug\net6.0\ZADACHA7.genruntimeconfig.cache
+D:\PRAKTIKA\PRAKTIKA_C-\1\ZADACHA7\obj\Debug\net6.0\ref\ZADACHA7.dll
