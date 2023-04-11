@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\PRAKTIKA\\PRAKTIKA_C-\\1\\ZADACHA3\\ZADACHA3.csproj",
+      "projectUniqueName": "D:\\PRAKTIKA\\PRAKTIKA_CSharp\\1\\ZADACHA3\\ZADACHA3.csproj",
       "projectName": "ZADACHA3",
-      "projectPath": "D:\\PRAKTIKA\\PRAKTIKA_C-\\1\\ZADACHA3\\ZADACHA3.csproj",
+      "projectPath": "D:\\PRAKTIKA\\PRAKTIKA_CSharp\\1\\ZADACHA3\\ZADACHA3.csproj",
       "packagesPath": "C:\\Users\\МАКС\\.nuget\\packages\\",
-      "outputPath": "D:\\PRAKTIKA\\PRAKTIKA_C-\\1\\ZADACHA3\\obj\\",
+      "outputPath": "D:\\PRAKTIKA\\PRAKTIKA_CSharp\\1\\ZADACHA3\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

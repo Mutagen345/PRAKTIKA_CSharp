@@ -6,9 +6,9 @@ namespace ZADACHA1
         static void Main()
         {
             Console.WriteLine("Введите признак");
-            char c = Console.ReadLine().ToCharArray()[0];
+            char priznak = Console.ReadLine().ToCharArray()[0];
 
-            switch (c)
+            switch (priznak)
             {
                 case 'а':
                     Console.WriteLine("120,467 км/ч");

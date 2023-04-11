@@ -14,7 +14,7 @@ namespace ZADACHA1
                Console.WriteLine($"Результат {y}");
             }
             else if (x > 3)
-            {
+            {x
                y = 2 * Math.Cos(x) + 3 * Math.Pow(x, 2);
                Console.WriteLine($"Результат {y}");
             }
