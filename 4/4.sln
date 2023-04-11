@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32901.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZADACHA1", "ZADACHA1\ZADACHA1.csproj", "{D6B836E3-0967-44BE-BBFC-B8C996E96C45}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZADACHA2", "ZADACHA2\ZADACHA2.csproj", "{48EEC91C-D913-4CAD-99A2-60652CB9DAC8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZADACHA3", "ZADACHA3\ZADACHA3.csproj", "{F4347966-FF95-4998-95E4-EB2E5AA1FA50}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D6B836E3-0967-44BE-BBFC-B8C996E96C45}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D6B836E3-0967-44BE-BBFC-B8C996E96C45}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D6B836E3-0967-44BE-BBFC-B8C996E96C45}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D6B836E3-0967-44BE-BBFC-B8C996E96C45}.Release|Any CPU.Build.0 = Release|Any CPU
+		{48EEC91C-D913-4CAD-99A2-60652CB9DAC8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{48EEC91C-D913-4CAD-99A2-60652CB9DAC8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{48EEC91C-D913-4CAD-99A2-60652CB9DAC8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{48EEC91C-D913-4CAD-99A2-60652CB9DAC8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F4347966-FF95-4998-95E4-EB2E5AA1FA50}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F4347966-FF95-4998-95E4-EB2E5AA1FA50}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F4347966-FF95-4998-95E4-EB2E5AA1FA50}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F4347966-FF95-4998-95E4-EB2E5AA1FA50}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AEB5A3A5-286B-4AE5-B679-FE4377869305}
+	EndGlobalSection
+EndGlobal
