@@ -1,56 +1,46 @@
-﻿class Matrix
+﻿class Program
 {
-    public int n;
-    public int m;
-    public void Func(double[,] a, int b)
-    {
-        double[,] c = new double[n, m];
-        Console.WriteLine("Ваша матрица");
-        for (int i = 0; i < n; i++)
-        {
-            for (int j = 0; j < m; j++)
-                Console.Write("{0}{1}", a[i, j], "\t");
-
-            Console.WriteLine();
-        }
-        Console.WriteLine("Исходная матрица");
-        for (int i = 0; i < n; i++)
-        {
-            for (int j = 0; j < m; j++)
-            {
-                c[i, j] = a[i, j] - a[b, j];
-            }
-        }
-
-        for (int j = 0; j < m; j++)
-        {
-            c[b, j] = c[b, j] + a[b, j];
-        }
-        for (int i = 0; i < n; i++)
-        {
-            for (int j = 0; j < m; j++)
-                Console.Write("{0}{1}", c[i, j], "\t");
-
-            Console.WriteLine();
-        }
-    }
-
     static void Main(string[] args)
     {
         Console.WriteLine("Введите размер матрицы (после каждого введённого значения прожимаем Enter)");
         int n = Convert.ToInt32(Console.ReadLine());
         int m = Convert.ToInt32(Console.ReadLine());
-        Matrix matrix = new Matrix();
-        double[,] a = new double[n, m];
-        matrix.m = m;
-        matrix.n = n;
-        Console.WriteLine("Введите элементы матрицы (после каждого введённого значения прожимаем Enter)");
-        for (int i = 0; i < n; i++)
-            for (int j = 0; j < m; j++)
-                a[i, j] = Convert.ToDouble(Console.ReadLine());
-        Console.WriteLine("Введите индекс строки (номер строки - 1)");
-        int b = Convert.ToInt32(Console.ReadLine());
-        matrix.Func(a, b);
+        Matrix matrix = Matrix.Generate(n, m);
+        Console.WriteLine("Generated matrix");
+        PrintMatrix(matrix);
+        var isCorectRowNumber=false;
+        while (!isCorectRowNumber)
+        {
+            try
+            {
+                Console.WriteLine("Введите индекс строки (номер строки - 1)");
+                int rowNumber = Convert.ToInt32(Console.ReadLine());
+
+                matrix.Substruction(rowNumber);
+                isCorectRowNumber=true;
+            }
+            catch (IndexOutOfRangeException ex)
+            {
+                Console.WriteLine(ex.Message);
+            }
+        }
+        Console.WriteLine("Modified matrix");
+        PrintMatrix(matrix);
+        Console.WriteLine("New matrix");
+        Matrix matrix1 = Matrix.Generate(n,m);
+        PrintMatrix(matrix1);
         Console.ReadLine();
+    }
+
+    private static void PrintMatrix(Matrix matrix)
+    {
+        for (int i = 0; i < matrix.RowCount; i++)
+        {
+            for (int j = 0; j < matrix.ColumnCount; j++)
+            {
+                Console.Write($"{matrix[i,j]:F2} ");
+            }
+            Console.WriteLine();
+        }
     }
 }
