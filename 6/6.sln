@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32901.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZADACHA1", "ZADACHA1\ZADACHA1.csproj", "{E23CA19B-4A30-4B1C-91C3-B7ADCA12CD11}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZADACHA2", "ZADACHA2\ZADACHA2.csproj", "{4AA0F2E8-63BD-4B94-9A04-82FF1865E3E2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZADACHA3", "ZADACHA3\ZADACHA3.csproj", "{C7A1E7BD-D556-4975-BE82-73DD7164634A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E23CA19B-4A30-4B1C-91C3-B7ADCA12CD11}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E23CA19B-4A30-4B1C-91C3-B7ADCA12CD11}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E23CA19B-4A30-4B1C-91C3-B7ADCA12CD11}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E23CA19B-4A30-4B1C-91C3-B7ADCA12CD11}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4AA0F2E8-63BD-4B94-9A04-82FF1865E3E2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4AA0F2E8-63BD-4B94-9A04-82FF1865E3E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4AA0F2E8-63BD-4B94-9A04-82FF1865E3E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4AA0F2E8-63BD-4B94-9A04-82FF1865E3E2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C7A1E7BD-D556-4975-BE82-73DD7164634A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C7A1E7BD-D556-4975-BE82-73DD7164634A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C7A1E7BD-D556-4975-BE82-73DD7164634A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C7A1E7BD-D556-4975-BE82-73DD7164634A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7F09DBC8-83E5-489E-A7A7-D2B49D15548F}
+	EndGlobalSection
+EndGlobal
