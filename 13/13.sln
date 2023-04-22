@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32901.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZADACHA1", "ZADACHA1\ZADACHA1.csproj", "{962F01DD-514B-4E8C-9122-B029F221A5AF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZADACHA2", "ZADACHA2\ZADACHA2.csproj", "{1AC4C155-40C5-4B28-BFCE-5B07208C57B6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZADACHA3", "ZADACHA3\ZADACHA3.csproj", "{A91E0839-5337-4919-91A0-735CCAB5EF00}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{962F01DD-514B-4E8C-9122-B029F221A5AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{962F01DD-514B-4E8C-9122-B029F221A5AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{962F01DD-514B-4E8C-9122-B029F221A5AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{962F01DD-514B-4E8C-9122-B029F221A5AF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1AC4C155-40C5-4B28-BFCE-5B07208C57B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1AC4C155-40C5-4B28-BFCE-5B07208C57B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1AC4C155-40C5-4B28-BFCE-5B07208C57B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1AC4C155-40C5-4B28-BFCE-5B07208C57B6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A91E0839-5337-4919-91A0-735CCAB5EF00}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A91E0839-5337-4919-91A0-735CCAB5EF00}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A91E0839-5337-4919-91A0-735CCAB5EF00}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A91E0839-5337-4919-91A0-735CCAB5EF00}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {72C299FE-3AEB-4E73-955D-CB5AE09FC47E}
+	EndGlobalSection
+EndGlobal
