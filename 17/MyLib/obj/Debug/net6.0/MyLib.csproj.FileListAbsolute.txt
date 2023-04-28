@@ -1,0 +1,12 @@
+D:\PRAKTIKA\PRAKTIKA_CSharp\17\MyLib\bin\Debug\net6.0\MyLib.deps.json
+D:\PRAKTIKA\PRAKTIKA_CSharp\17\MyLib\bin\Debug\net6.0\MyLib.dll
+D:\PRAKTIKA\PRAKTIKA_CSharp\17\MyLib\bin\Debug\net6.0\MyLib.pdb
+D:\PRAKTIKA\PRAKTIKA_CSharp\17\MyLib\obj\Debug\net6.0\MyLib.csproj.AssemblyReference.cache
+D:\PRAKTIKA\PRAKTIKA_CSharp\17\MyLib\obj\Debug\net6.0\MyLib.GeneratedMSBuildEditorConfig.editorconfig
+D:\PRAKTIKA\PRAKTIKA_CSharp\17\MyLib\obj\Debug\net6.0\MyLib.AssemblyInfoInputs.cache
+D:\PRAKTIKA\PRAKTIKA_CSharp\17\MyLib\obj\Debug\net6.0\MyLib.AssemblyInfo.cs
+D:\PRAKTIKA\PRAKTIKA_CSharp\17\MyLib\obj\Debug\net6.0\MyLib.csproj.CoreCompileInputs.cache
+D:\PRAKTIKA\PRAKTIKA_CSharp\17\MyLib\obj\Debug\net6.0\MyLib.dll
+D:\PRAKTIKA\PRAKTIKA_CSharp\17\MyLib\obj\Debug\net6.0\refint\MyLib.dll
+D:\PRAKTIKA\PRAKTIKA_CSharp\17\MyLib\obj\Debug\net6.0\MyLib.pdb
+D:\PRAKTIKA\PRAKTIKA_CSharp\17\MyLib\obj\Debug\net6.0\ref\MyLib.dll

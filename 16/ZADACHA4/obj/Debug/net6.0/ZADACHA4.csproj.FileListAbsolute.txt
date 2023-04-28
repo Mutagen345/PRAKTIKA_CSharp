@@ -1,0 +1,15 @@
+D:\PRAKTIKA\PRAKTIKA_CSharp\16\ZADACHA4\bin\Debug\net6.0\ZADACHA4.exe
+D:\PRAKTIKA\PRAKTIKA_CSharp\16\ZADACHA4\bin\Debug\net6.0\ZADACHA4.deps.json
+D:\PRAKTIKA\PRAKTIKA_CSharp\16\ZADACHA4\bin\Debug\net6.0\ZADACHA4.runtimeconfig.json
+D:\PRAKTIKA\PRAKTIKA_CSharp\16\ZADACHA4\bin\Debug\net6.0\ZADACHA4.dll
+D:\PRAKTIKA\PRAKTIKA_CSharp\16\ZADACHA4\bin\Debug\net6.0\ZADACHA4.pdb
+D:\PRAKTIKA\PRAKTIKA_CSharp\16\ZADACHA4\obj\Debug\net6.0\ZADACHA4.csproj.AssemblyReference.cache
+D:\PRAKTIKA\PRAKTIKA_CSharp\16\ZADACHA4\obj\Debug\net6.0\ZADACHA4.GeneratedMSBuildEditorConfig.editorconfig
+D:\PRAKTIKA\PRAKTIKA_CSharp\16\ZADACHA4\obj\Debug\net6.0\ZADACHA4.AssemblyInfoInputs.cache
+D:\PRAKTIKA\PRAKTIKA_CSharp\16\ZADACHA4\obj\Debug\net6.0\ZADACHA4.AssemblyInfo.cs
+D:\PRAKTIKA\PRAKTIKA_CSharp\16\ZADACHA4\obj\Debug\net6.0\ZADACHA4.csproj.CoreCompileInputs.cache
+D:\PRAKTIKA\PRAKTIKA_CSharp\16\ZADACHA4\obj\Debug\net6.0\ZADACHA4.dll
+D:\PRAKTIKA\PRAKTIKA_CSharp\16\ZADACHA4\obj\Debug\net6.0\refint\ZADACHA4.dll
+D:\PRAKTIKA\PRAKTIKA_CSharp\16\ZADACHA4\obj\Debug\net6.0\ZADACHA4.pdb
+D:\PRAKTIKA\PRAKTIKA_CSharp\16\ZADACHA4\obj\Debug\net6.0\ZADACHA4.genruntimeconfig.cache
+D:\PRAKTIKA\PRAKTIKA_CSharp\16\ZADACHA4\obj\Debug\net6.0\ref\ZADACHA4.dll
