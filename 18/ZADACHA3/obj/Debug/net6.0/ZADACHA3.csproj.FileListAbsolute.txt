@@ -1,0 +1,5 @@
+D:\PRAKTIKA\PRAKTIKA_CSharp\18\ZADACHA3\obj\Debug\net6.0\ZADACHA3.csproj.AssemblyReference.cache
+D:\PRAKTIKA\PRAKTIKA_CSharp\18\ZADACHA3\obj\Debug\net6.0\ZADACHA3.GeneratedMSBuildEditorConfig.editorconfig
+D:\PRAKTIKA\PRAKTIKA_CSharp\18\ZADACHA3\obj\Debug\net6.0\ZADACHA3.AssemblyInfoInputs.cache
+D:\PRAKTIKA\PRAKTIKA_CSharp\18\ZADACHA3\obj\Debug\net6.0\ZADACHA3.AssemblyInfo.cs
+D:\PRAKTIKA\PRAKTIKA_CSharp\18\ZADACHA3\obj\Debug\net6.0\ZADACHA3.csproj.CoreCompileInputs.cache
