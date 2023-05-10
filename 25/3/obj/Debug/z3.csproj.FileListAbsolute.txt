@@ -1,0 +1,115 @@
+D:\PracticCSharp\Prac26\z3\obj\Debug\z3.csproj.AssemblyReference.cache
+D:\PracticCSharp\Prac26\z3\obj\Debug\z3.csproj.SuggestedBindingRedirects.cache
+D:\PracticCSharp\Prac26\z3\obj\Debug\MainWindow.g.cs
+D:\PracticCSharp\Prac26\z3\obj\Debug\App.g.cs
+D:\PracticCSharp\Prac26\z3\obj\Debug\z3_MarkupCompile.cache
+D:\PracticCSharp\Prac26\z3\obj\Debug\z3_MarkupCompile.lref
+D:\PracticCSharp\Prac26\z3\bin\Debug\z3.exe.config
+D:\PracticCSharp\Prac26\z3\bin\Debug\z3.exe
+D:\PracticCSharp\Prac26\z3\bin\Debug\z3.pdb
+D:\PracticCSharp\Prac26\z3\bin\Debug\LiveCharts.dll
+D:\PracticCSharp\Prac26\z3\bin\Debug\LiveCharts.Wpf.dll
+D:\PracticCSharp\Prac26\z3\bin\Debug\LiveCharts.pdb
+D:\PracticCSharp\Prac26\z3\bin\Debug\LiveCharts.xml
+D:\PracticCSharp\Prac26\z3\bin\Debug\LiveCharts.Wpf.pdb
+D:\PracticCSharp\Prac26\z3\bin\Debug\LiveCharts.Wpf.xml
+D:\PracticCSharp\Prac26\z3\obj\Debug\MainWindow.baml
+D:\PracticCSharp\Prac26\z3\obj\Debug\z3.g.resources
+D:\PracticCSharp\Prac26\z3\obj\Debug\z3.Properties.Resources.resources
+D:\PracticCSharp\Prac26\z3\obj\Debug\z3.csproj.GenerateResource.cache
+D:\PracticCSharp\Prac26\z3\obj\Debug\z3.csproj.CoreCompileInputs.cache
+D:\PracticCSharp\Prac26\z3\obj\Debug\z3.csproj.CopyComplete
+D:\PracticCSharp\Prac26\z3\obj\Debug\z3.exe
+D:\PracticCSharp\Prac26\z3\obj\Debug\z3.pdb
+C:\Users\HP\Desktop\Prac26\z3\bin\Debug\z3.exe.config
+C:\Users\HP\Desktop\Prac26\z3\bin\Debug\z3.exe
+C:\Users\HP\Desktop\Prac26\z3\bin\Debug\z3.pdb
+C:\Users\HP\Desktop\Prac26\z3\bin\Debug\LiveCharts.dll
+C:\Users\HP\Desktop\Prac26\z3\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\HP\Desktop\Prac26\z3\bin\Debug\LiveCharts.pdb
+C:\Users\HP\Desktop\Prac26\z3\bin\Debug\LiveCharts.xml
+C:\Users\HP\Desktop\Prac26\z3\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\HP\Desktop\Prac26\z3\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\HP\Desktop\Prac26\z3\obj\Debug\z3.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Prac26\z3\obj\Debug\z3.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\Desktop\Prac26\z3\obj\Debug\MainWindow.g.cs
+C:\Users\HP\Desktop\Prac26\z3\obj\Debug\App.g.cs
+C:\Users\HP\Desktop\Prac26\z3\obj\Debug\z3_MarkupCompile.cache
+C:\Users\HP\Desktop\Prac26\z3\obj\Debug\z3_MarkupCompile.lref
+C:\Users\HP\Desktop\Prac26\z3\obj\Debug\MainWindow.baml
+C:\Users\HP\Desktop\Prac26\z3\obj\Debug\z3.g.resources
+C:\Users\HP\Desktop\Prac26\z3\obj\Debug\z3.Properties.Resources.resources
+C:\Users\HP\Desktop\Prac26\z3\obj\Debug\z3.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\Prac26\z3\obj\Debug\z3.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Prac26\z3\obj\Debug\z3.csproj.CopyComplete
+C:\Users\HP\Desktop\Prac26\z3\obj\Debug\z3.exe
+C:\Users\HP\Desktop\Prac26\z3\obj\Debug\z3.pdb
+D:\Valya\collage\3_kurs\practice_c#\Day26\z3\bin\Debug\z3.exe.config
+D:\Valya\collage\3_kurs\practice_c#\Day26\z3\bin\Debug\z3.exe
+D:\Valya\collage\3_kurs\practice_c#\Day26\z3\bin\Debug\z3.pdb
+D:\Valya\collage\3_kurs\practice_c#\Day26\z3\bin\Debug\LiveCharts.dll
+D:\Valya\collage\3_kurs\practice_c#\Day26\z3\bin\Debug\LiveCharts.Wpf.dll
+D:\Valya\collage\3_kurs\practice_c#\Day26\z3\bin\Debug\LiveCharts.pdb
+D:\Valya\collage\3_kurs\practice_c#\Day26\z3\bin\Debug\LiveCharts.xml
+D:\Valya\collage\3_kurs\practice_c#\Day26\z3\bin\Debug\LiveCharts.Wpf.pdb
+D:\Valya\collage\3_kurs\practice_c#\Day26\z3\bin\Debug\LiveCharts.Wpf.xml
+D:\Valya\collage\3_kurs\practice_c#\Day26\z3\obj\Debug\z3.csproj.AssemblyReference.cache
+D:\Valya\collage\3_kurs\practice_c#\Day26\z3\obj\Debug\z3.csproj.SuggestedBindingRedirects.cache
+D:\Valya\collage\3_kurs\practice_c#\Day26\z3\obj\Debug\MainWindow.g.cs
+D:\Valya\collage\3_kurs\practice_c#\Day26\z3\obj\Debug\App.g.cs
+D:\Valya\collage\3_kurs\practice_c#\Day26\z3\obj\Debug\z3_MarkupCompile.cache
+D:\Valya\collage\3_kurs\practice_c#\Day26\z3\obj\Debug\z3_MarkupCompile.lref
+D:\Valya\collage\3_kurs\practice_c#\Day26\z3\obj\Debug\MainWindow.baml
+D:\Valya\collage\3_kurs\practice_c#\Day26\z3\obj\Debug\z3.g.resources
+D:\Valya\collage\3_kurs\practice_c#\Day26\z3\obj\Debug\z3.Properties.Resources.resources
+D:\Valya\collage\3_kurs\practice_c#\Day26\z3\obj\Debug\z3.csproj.GenerateResource.cache
+D:\Valya\collage\3_kurs\practice_c#\Day26\z3\obj\Debug\z3.csproj.CoreCompileInputs.cache
+D:\Valya\collage\3_kurs\practice_c#\Day26\z3\obj\Debug\z3.csproj.CopyComplete
+D:\Valya\collage\3_kurs\practice_c#\Day26\z3\obj\Debug\z3.exe
+D:\Valya\collage\3_kurs\practice_c#\Day26\z3\obj\Debug\z3.pdb
+C:\Users\a6660\Desktop\ \!Practisch\D25\3\bin\Debug\z3.exe.config
+C:\Users\a6660\Desktop\ \!Practisch\D25\3\bin\Debug\z3.exe
+C:\Users\a6660\Desktop\ \!Practisch\D25\3\bin\Debug\z3.pdb
+C:\Users\a6660\Desktop\ \!Practisch\D25\3\bin\Debug\LiveCharts.dll
+C:\Users\a6660\Desktop\ \!Practisch\D25\3\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\a6660\Desktop\ \!Practisch\D25\3\bin\Debug\LiveCharts.pdb
+C:\Users\a6660\Desktop\ \!Practisch\D25\3\bin\Debug\LiveCharts.xml
+C:\Users\a6660\Desktop\ \!Practisch\D25\3\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\a6660\Desktop\ \!Practisch\D25\3\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\a6660\Desktop\ \!Practisch\D25\3\obj\Debug\z3.csproj.AssemblyReference.cache
+C:\Users\a6660\Desktop\ \!Practisch\D25\3\obj\Debug\z3.csproj.SuggestedBindingRedirects.cache
+C:\Users\a6660\Desktop\ \!Practisch\D25\3\obj\Debug\MainWindow.g.cs
+C:\Users\a6660\Desktop\ \!Practisch\D25\3\obj\Debug\App.g.cs
+C:\Users\a6660\Desktop\ \!Practisch\D25\3\obj\Debug\z3_MarkupCompile.cache
+C:\Users\a6660\Desktop\ \!Practisch\D25\3\obj\Debug\z3_MarkupCompile.lref
+C:\Users\a6660\Desktop\ \!Practisch\D25\3\obj\Debug\MainWindow.baml
+C:\Users\a6660\Desktop\ \!Practisch\D25\3\obj\Debug\z3.g.resources
+C:\Users\a6660\Desktop\ \!Practisch\D25\3\obj\Debug\z3.Properties.Resources.resources
+C:\Users\a6660\Desktop\ \!Practisch\D25\3\obj\Debug\z3.csproj.GenerateResource.cache
+C:\Users\a6660\Desktop\ \!Practisch\D25\3\obj\Debug\z3.csproj.CoreCompileInputs.cache
+C:\Users\a6660\Desktop\ \!Practisch\D25\3\obj\Debug\z3.csproj.CopyComplete
+C:\Users\a6660\Desktop\ \!Practisch\D25\3\obj\Debug\z3.exe
+C:\Users\a6660\Desktop\ \!Practisch\D25\3\obj\Debug\z3.pdb
+D:\PRAKTIKA\PRAKTIKA_CSharp\25\3\bin\Debug\z3.exe.config
+D:\PRAKTIKA\PRAKTIKA_CSharp\25\3\bin\Debug\z3.exe
+D:\PRAKTIKA\PRAKTIKA_CSharp\25\3\bin\Debug\z3.pdb
+D:\PRAKTIKA\PRAKTIKA_CSharp\25\3\bin\Debug\LiveCharts.dll
+D:\PRAKTIKA\PRAKTIKA_CSharp\25\3\bin\Debug\LiveCharts.Wpf.dll
+D:\PRAKTIKA\PRAKTIKA_CSharp\25\3\bin\Debug\LiveCharts.pdb
+D:\PRAKTIKA\PRAKTIKA_CSharp\25\3\bin\Debug\LiveCharts.xml
+D:\PRAKTIKA\PRAKTIKA_CSharp\25\3\bin\Debug\LiveCharts.Wpf.pdb
+D:\PRAKTIKA\PRAKTIKA_CSharp\25\3\bin\Debug\LiveCharts.Wpf.xml
+D:\PRAKTIKA\PRAKTIKA_CSharp\25\3\obj\Debug\z3.csproj.AssemblyReference.cache
+D:\PRAKTIKA\PRAKTIKA_CSharp\25\3\obj\Debug\z3.csproj.SuggestedBindingRedirects.cache
+D:\PRAKTIKA\PRAKTIKA_CSharp\25\3\obj\Debug\MainWindow.g.cs
+D:\PRAKTIKA\PRAKTIKA_CSharp\25\3\obj\Debug\App.g.cs
+D:\PRAKTIKA\PRAKTIKA_CSharp\25\3\obj\Debug\z3_MarkupCompile.cache
+D:\PRAKTIKA\PRAKTIKA_CSharp\25\3\obj\Debug\z3_MarkupCompile.lref
+D:\PRAKTIKA\PRAKTIKA_CSharp\25\3\obj\Debug\MainWindow.baml
+D:\PRAKTIKA\PRAKTIKA_CSharp\25\3\obj\Debug\z3.g.resources
+D:\PRAKTIKA\PRAKTIKA_CSharp\25\3\obj\Debug\z3.Properties.Resources.resources
+D:\PRAKTIKA\PRAKTIKA_CSharp\25\3\obj\Debug\z3.csproj.GenerateResource.cache
+D:\PRAKTIKA\PRAKTIKA_CSharp\25\3\obj\Debug\z3.csproj.CoreCompileInputs.cache
+D:\PRAKTIKA\PRAKTIKA_CSharp\25\3\obj\Debug\z3.csproj.CopyComplete
+D:\PRAKTIKA\PRAKTIKA_CSharp\25\3\obj\Debug\z3.exe
+D:\PRAKTIKA\PRAKTIKA_CSharp\25\3\obj\Debug\z3.pdb
