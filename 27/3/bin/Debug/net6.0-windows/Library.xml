@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Library>
+	<Book>
+		<Title>Grodno</Title>
+		<Author>Minsk</Author>
+		<Year>191</Year>
+	</Book>
+	<Book>
+		<Title>Minsk</Title>
+		<Author>Grodno</Author>
+		<Year>160</Year>
+	</Book>
+	<Book>
+		<Title>Brest</Title>
+		<Author>Minsk</Author>
+		<Year>1</Year>
+	</Book>
+		<Title>Grodno</Title>
+		<Author>France</Author>
+		<Year>7</Year>
+	<Book>
+		<Title>Grodno</Title>
+		<Author>Germany</Author>
+		<Year>154</Year>
+	</Book>
+	<Book>
+		<Title>Grodno</Title>
+		<Author>Baranovischi</Author>
+		<Year>172</Year>
+	</Book>
+	<Book>
+		<Title>Grodno</Title>
+		<Author>Situjd</Author>
+		<Year>197</Year>
+	</Book>
+	<Book>
+		<Title>Grodno</Title>
+		<Author>Vitebsk</Author>
+		<Year>183</Year>
+	</Book>
+</Library>

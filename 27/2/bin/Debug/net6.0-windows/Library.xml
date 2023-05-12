@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Library>
+	<Book>
+		<Title>Ловец во лжи.</Title>
+		<Author>Д.Д Сэлинджер</Author>
+		<Year>1951</Year>
+	</Book>
+	<Book>
+		<Title>Убить пересмешника</Title>
+		<Author>Харпер Ли</Author>
+		<Year>1960</Year>
+	</Book>
+	<Book>
+		<Title>1984</Title>
+		<Author>Джордж Оруэлл</Author>
+		<Year>1949</Year>
+	</Book>
+		<Title>Гарри Поттер</Title>
+		<Author>Джоан Роулинг</Author>
+		<Year>1997</Year>
+	<Book>
+		<Title>Властелин колец</Title>
+		<Author>Дж.Р.Р.Толкин</Author>
+		<Year>1954</Year>
+	</Book>
+	<Book>
+		<Title>Пикник на обочине</Title>
+		<Author>Бартья Стругацкии</Author>
+		<Year>1972</Year>
+	</Book>
+	<Book>
+		<Title>Мастер и Маргарита</Title>
+		<Author>М. Булгаков</Author>
+		<Year>1967</Year>
+	</Book>
+	<Book>
+		<Title>Гордость и предубеждение</Title>
+		<Author>Джейн Остен</Author>
+		<Year>1813</Year>
+	</Book>
+</Library>

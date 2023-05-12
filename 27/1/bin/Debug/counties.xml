@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Avtovoksal>
+	<Voksal>
+		<Point>Гродно</Point>
+		<Nummer>678</Nummer>
+		<PointOf>Минск</PointOf>
+	</Voksal>
+	
+	<Voksal>
+		<Point>Гродно</Point>
+		<Nummer>678</Nummer>
+		<PointOf>Минск</PointOf>
+	</Voksal>
+
+	<Voksal>
+		<Point>Гродно</Point>
+		<Nummer>678</Nummer>
+		<PointOf>Брест</PointOf>
+	</Voksal>
+
+	<Voksal>
+		<Point>Гродно</Point>
+		<Nummer>678</Nummer>
+		<PointOf>Минск</PointOf>
+	</Voksal>
+
+	<Voksal>
+		<Point>Гродно</Point>
+		<Nummer>678</Nummer>
+		<PointOf>Польша</PointOf>
+	</Voksal>
+
+	<Voksal>
+		<Point>Гродно</Point>
+		<Nummer>678</Nummer>
+		<PointOf>РњРёРЅСЃРє</PointOf>
+	</Voksal>
+
+	<Voksal>
+		<Point>Ольашнка</Point>
+		<Nummer>678</Nummer>
+		<PointOf>Колледж</PointOf>
+	</Voksal>
+</Avtovoksal>

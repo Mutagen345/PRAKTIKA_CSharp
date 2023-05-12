@@ -1,0 +1,40 @@
+C:\Users\a6660\Desktop\ \!Practisch\D26\3\bin\Debug\net6.0-windows\3.exe
+C:\Users\a6660\Desktop\ \!Practisch\D26\3\bin\Debug\net6.0-windows\3.deps.json
+C:\Users\a6660\Desktop\ \!Practisch\D26\3\bin\Debug\net6.0-windows\3.runtimeconfig.json
+C:\Users\a6660\Desktop\ \!Practisch\D26\3\bin\Debug\net6.0-windows\3.dll
+C:\Users\a6660\Desktop\ \!Practisch\D26\3\bin\Debug\net6.0-windows\3.pdb
+C:\Users\a6660\Desktop\ \!Practisch\D26\3\obj\Debug\net6.0-windows\3.csproj.AssemblyReference.cache
+C:\Users\a6660\Desktop\ \!Practisch\D26\3\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\a6660\Desktop\ \!Practisch\D26\3\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\a6660\Desktop\ \!Practisch\D26\3\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\a6660\Desktop\ \!Practisch\D26\3\obj\Debug\net6.0-windows\3_MarkupCompile.cache
+C:\Users\a6660\Desktop\ \!Practisch\D26\3\obj\Debug\net6.0-windows\3.g.resources
+C:\Users\a6660\Desktop\ \!Practisch\D26\3\obj\Debug\net6.0-windows\3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\a6660\Desktop\ \!Practisch\D26\3\obj\Debug\net6.0-windows\3.AssemblyInfoInputs.cache
+C:\Users\a6660\Desktop\ \!Practisch\D26\3\obj\Debug\net6.0-windows\3.AssemblyInfo.cs
+C:\Users\a6660\Desktop\ \!Practisch\D26\3\obj\Debug\net6.0-windows\3.csproj.CoreCompileInputs.cache
+C:\Users\a6660\Desktop\ \!Practisch\D26\3\obj\Debug\net6.0-windows\3.dll
+C:\Users\a6660\Desktop\ \!Practisch\D26\3\obj\Debug\net6.0-windows\refint\3.dll
+C:\Users\a6660\Desktop\ \!Practisch\D26\3\obj\Debug\net6.0-windows\3.pdb
+C:\Users\a6660\Desktop\ \!Practisch\D26\3\obj\Debug\net6.0-windows\3.genruntimeconfig.cache
+C:\Users\a6660\Desktop\ \!Practisch\D26\3\obj\Debug\net6.0-windows\ref\3.dll
+D:\PRAKTIKA\PRAKTIKA_CSharp\27\3\bin\Debug\net6.0-windows\3.exe
+D:\PRAKTIKA\PRAKTIKA_CSharp\27\3\bin\Debug\net6.0-windows\3.deps.json
+D:\PRAKTIKA\PRAKTIKA_CSharp\27\3\bin\Debug\net6.0-windows\3.runtimeconfig.json
+D:\PRAKTIKA\PRAKTIKA_CSharp\27\3\bin\Debug\net6.0-windows\3.dll
+D:\PRAKTIKA\PRAKTIKA_CSharp\27\3\bin\Debug\net6.0-windows\3.pdb
+D:\PRAKTIKA\PRAKTIKA_CSharp\27\3\obj\Debug\net6.0-windows\3.csproj.AssemblyReference.cache
+D:\PRAKTIKA\PRAKTIKA_CSharp\27\3\obj\Debug\net6.0-windows\MainWindow.baml
+D:\PRAKTIKA\PRAKTIKA_CSharp\27\3\obj\Debug\net6.0-windows\MainWindow.g.cs
+D:\PRAKTIKA\PRAKTIKA_CSharp\27\3\obj\Debug\net6.0-windows\App.g.cs
+D:\PRAKTIKA\PRAKTIKA_CSharp\27\3\obj\Debug\net6.0-windows\3_MarkupCompile.cache
+D:\PRAKTIKA\PRAKTIKA_CSharp\27\3\obj\Debug\net6.0-windows\3.g.resources
+D:\PRAKTIKA\PRAKTIKA_CSharp\27\3\obj\Debug\net6.0-windows\3.GeneratedMSBuildEditorConfig.editorconfig
+D:\PRAKTIKA\PRAKTIKA_CSharp\27\3\obj\Debug\net6.0-windows\3.AssemblyInfoInputs.cache
+D:\PRAKTIKA\PRAKTIKA_CSharp\27\3\obj\Debug\net6.0-windows\3.AssemblyInfo.cs
+D:\PRAKTIKA\PRAKTIKA_CSharp\27\3\obj\Debug\net6.0-windows\3.csproj.CoreCompileInputs.cache
+D:\PRAKTIKA\PRAKTIKA_CSharp\27\3\obj\Debug\net6.0-windows\3.dll
+D:\PRAKTIKA\PRAKTIKA_CSharp\27\3\obj\Debug\net6.0-windows\refint\3.dll
+D:\PRAKTIKA\PRAKTIKA_CSharp\27\3\obj\Debug\net6.0-windows\3.pdb
+D:\PRAKTIKA\PRAKTIKA_CSharp\27\3\obj\Debug\net6.0-windows\3.genruntimeconfig.cache
+D:\PRAKTIKA\PRAKTIKA_CSharp\27\3\obj\Debug\net6.0-windows\ref\3.dll

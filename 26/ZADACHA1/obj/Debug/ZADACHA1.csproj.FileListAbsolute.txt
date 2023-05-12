@@ -1,0 +1,4 @@
+D:\PRAKTIKA\PRAKTIKA_CSharp\26\ZADACHA1\obj\Debug\ZADACHA1.csproj.AssemblyReference.cache
+D:\PRAKTIKA\PRAKTIKA_CSharp\26\ZADACHA1\obj\Debug\ZADACHA1.csproj.SuggestedBindingRedirects.cache
+D:\PRAKTIKA\PRAKTIKA_CSharp\26\ZADACHA1\obj\Debug\App.g.cs
+D:\PRAKTIKA\PRAKTIKA_CSharp\26\ZADACHA1\obj\Debug\ZADACHA1_MarkupCompile.cache
