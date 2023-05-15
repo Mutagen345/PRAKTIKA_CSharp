@@ -1,0 +1,32 @@
+C:\Users\a6660\Desktop\ \!Practisch\D28\5\bin\Debug\5.exe.config
+C:\Users\a6660\Desktop\ \!Practisch\D28\5\bin\Debug\5.exe
+C:\Users\a6660\Desktop\ \!Practisch\D28\5\bin\Debug\5.pdb
+C:\Users\a6660\Desktop\ \!Practisch\D28\5\obj\Debug\5.csproj.AssemblyReference.cache
+C:\Users\a6660\Desktop\ \!Practisch\D28\5\obj\Debug\5.csproj.SuggestedBindingRedirects.cache
+C:\Users\a6660\Desktop\ \!Practisch\D28\5\obj\Debug\MainWindow.g.cs
+C:\Users\a6660\Desktop\ \!Practisch\D28\5\obj\Debug\App.g.cs
+C:\Users\a6660\Desktop\ \!Practisch\D28\5\obj\Debug\5_MarkupCompile.cache
+C:\Users\a6660\Desktop\ \!Practisch\D28\5\obj\Debug\5_MarkupCompile.lref
+C:\Users\a6660\Desktop\ \!Practisch\D28\5\obj\Debug\MainWindow.baml
+C:\Users\a6660\Desktop\ \!Practisch\D28\5\obj\Debug\5.g.resources
+C:\Users\a6660\Desktop\ \!Practisch\D28\5\obj\Debug\_5.Properties.Resources.resources
+C:\Users\a6660\Desktop\ \!Practisch\D28\5\obj\Debug\5.csproj.GenerateResource.cache
+C:\Users\a6660\Desktop\ \!Practisch\D28\5\obj\Debug\5.csproj.CoreCompileInputs.cache
+C:\Users\a6660\Desktop\ \!Practisch\D28\5\obj\Debug\5.exe
+C:\Users\a6660\Desktop\ \!Practisch\D28\5\obj\Debug\5.pdb
+D:\PRAKTIKA\PRAKTIKA_CSharp\28\5\bin\Debug\5.exe.config
+D:\PRAKTIKA\PRAKTIKA_CSharp\28\5\bin\Debug\5.exe
+D:\PRAKTIKA\PRAKTIKA_CSharp\28\5\bin\Debug\5.pdb
+D:\PRAKTIKA\PRAKTIKA_CSharp\28\5\obj\Debug\5.csproj.AssemblyReference.cache
+D:\PRAKTIKA\PRAKTIKA_CSharp\28\5\obj\Debug\5.csproj.SuggestedBindingRedirects.cache
+D:\PRAKTIKA\PRAKTIKA_CSharp\28\5\obj\Debug\MainWindow.g.cs
+D:\PRAKTIKA\PRAKTIKA_CSharp\28\5\obj\Debug\App.g.cs
+D:\PRAKTIKA\PRAKTIKA_CSharp\28\5\obj\Debug\5_MarkupCompile.cache
+D:\PRAKTIKA\PRAKTIKA_CSharp\28\5\obj\Debug\5_MarkupCompile.lref
+D:\PRAKTIKA\PRAKTIKA_CSharp\28\5\obj\Debug\MainWindow.baml
+D:\PRAKTIKA\PRAKTIKA_CSharp\28\5\obj\Debug\5.g.resources
+D:\PRAKTIKA\PRAKTIKA_CSharp\28\5\obj\Debug\_5.Properties.Resources.resources
+D:\PRAKTIKA\PRAKTIKA_CSharp\28\5\obj\Debug\5.csproj.GenerateResource.cache
+D:\PRAKTIKA\PRAKTIKA_CSharp\28\5\obj\Debug\5.csproj.CoreCompileInputs.cache
+D:\PRAKTIKA\PRAKTIKA_CSharp\28\5\obj\Debug\5.exe
+D:\PRAKTIKA\PRAKTIKA_CSharp\28\5\obj\Debug\5.pdb

@@ -1,0 +1,16 @@
+C:\Users\a6660\Desktop\ \!Practisch\D28\4\bin\Debug\4.exe.config
+C:\Users\a6660\Desktop\ \!Practisch\D28\4\bin\Debug\4.exe
+C:\Users\a6660\Desktop\ \!Practisch\D28\4\bin\Debug\4.pdb
+C:\Users\a6660\Desktop\ \!Practisch\D28\4\obj\Debug\4.csproj.AssemblyReference.cache
+C:\Users\a6660\Desktop\ \!Practisch\D28\4\obj\Debug\4.csproj.SuggestedBindingRedirects.cache
+C:\Users\a6660\Desktop\ \!Practisch\D28\4\obj\Debug\MainWindow.g.cs
+C:\Users\a6660\Desktop\ \!Practisch\D28\4\obj\Debug\App.g.cs
+C:\Users\a6660\Desktop\ \!Practisch\D28\4\obj\Debug\4_MarkupCompile.cache
+C:\Users\a6660\Desktop\ \!Practisch\D28\4\obj\Debug\4_MarkupCompile.lref
+C:\Users\a6660\Desktop\ \!Practisch\D28\4\obj\Debug\MainWindow.baml
+C:\Users\a6660\Desktop\ \!Practisch\D28\4\obj\Debug\4.g.resources
+C:\Users\a6660\Desktop\ \!Practisch\D28\4\obj\Debug\_4.Properties.Resources.resources
+C:\Users\a6660\Desktop\ \!Practisch\D28\4\obj\Debug\4.csproj.GenerateResource.cache
+C:\Users\a6660\Desktop\ \!Practisch\D28\4\obj\Debug\4.csproj.CoreCompileInputs.cache
+C:\Users\a6660\Desktop\ \!Practisch\D28\4\obj\Debug\4.exe
+C:\Users\a6660\Desktop\ \!Practisch\D28\4\obj\Debug\4.pdb
