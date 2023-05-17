@@ -1,0 +1,40 @@
+C:\Users\brutt\source\repos\Тема 26\Тема 26\bin\Debug\net6.0-windows\Тема 26.exe
+C:\Users\brutt\source\repos\Тема 26\Тема 26\bin\Debug\net6.0-windows\Тема 26.deps.json
+C:\Users\brutt\source\repos\Тема 26\Тема 26\bin\Debug\net6.0-windows\Тема 26.runtimeconfig.json
+C:\Users\brutt\source\repos\Тема 26\Тема 26\bin\Debug\net6.0-windows\Тема 26.dll
+C:\Users\brutt\source\repos\Тема 26\Тема 26\bin\Debug\net6.0-windows\Тема 26.pdb
+C:\Users\brutt\source\repos\Тема 26\Тема 26\obj\Debug\net6.0-windows\Тема 26.csproj.AssemblyReference.cache
+C:\Users\brutt\source\repos\Тема 26\Тема 26\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\brutt\source\repos\Тема 26\Тема 26\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\brutt\source\repos\Тема 26\Тема 26\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\brutt\source\repos\Тема 26\Тема 26\obj\Debug\net6.0-windows\Тема 26_MarkupCompile.cache
+C:\Users\brutt\source\repos\Тема 26\Тема 26\obj\Debug\net6.0-windows\Тема 26.g.resources
+C:\Users\brutt\source\repos\Тема 26\Тема 26\obj\Debug\net6.0-windows\Тема 26.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brutt\source\repos\Тема 26\Тема 26\obj\Debug\net6.0-windows\Тема 26.AssemblyInfoInputs.cache
+C:\Users\brutt\source\repos\Тема 26\Тема 26\obj\Debug\net6.0-windows\Тема 26.AssemblyInfo.cs
+C:\Users\brutt\source\repos\Тема 26\Тема 26\obj\Debug\net6.0-windows\Тема 26.csproj.CoreCompileInputs.cache
+C:\Users\brutt\source\repos\Тема 26\Тема 26\obj\Debug\net6.0-windows\Тема 26.dll
+C:\Users\brutt\source\repos\Тема 26\Тема 26\obj\Debug\net6.0-windows\refint\Тема 26.dll
+C:\Users\brutt\source\repos\Тема 26\Тема 26\obj\Debug\net6.0-windows\Тема 26.pdb
+C:\Users\brutt\source\repos\Тема 26\Тема 26\obj\Debug\net6.0-windows\Тема 26.genruntimeconfig.cache
+C:\Users\brutt\source\repos\Тема 26\Тема 26\obj\Debug\net6.0-windows\ref\Тема 26.dll
+C:\Users\a6660\Desktop\ \!Practisch\D26\3\bin\Debug\net6.0-windows\Тема 26.exe
+C:\Users\a6660\Desktop\ \!Practisch\D26\3\bin\Debug\net6.0-windows\Тема 26.deps.json
+C:\Users\a6660\Desktop\ \!Practisch\D26\3\bin\Debug\net6.0-windows\Тема 26.runtimeconfig.json
+C:\Users\a6660\Desktop\ \!Practisch\D26\3\bin\Debug\net6.0-windows\Тема 26.dll
+C:\Users\a6660\Desktop\ \!Practisch\D26\3\bin\Debug\net6.0-windows\Тема 26.pdb
+C:\Users\a6660\Desktop\ \!Practisch\D26\3\obj\Debug\net6.0-windows\Тема 26.csproj.AssemblyReference.cache
+C:\Users\a6660\Desktop\ \!Practisch\D26\3\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\a6660\Desktop\ \!Practisch\D26\3\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\a6660\Desktop\ \!Practisch\D26\3\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\a6660\Desktop\ \!Practisch\D26\3\obj\Debug\net6.0-windows\Тема 26_MarkupCompile.cache
+C:\Users\a6660\Desktop\ \!Practisch\D26\3\obj\Debug\net6.0-windows\Тема 26.g.resources
+C:\Users\a6660\Desktop\ \!Practisch\D26\3\obj\Debug\net6.0-windows\Тема 26.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\a6660\Desktop\ \!Practisch\D26\3\obj\Debug\net6.0-windows\Тема 26.AssemblyInfoInputs.cache
+C:\Users\a6660\Desktop\ \!Practisch\D26\3\obj\Debug\net6.0-windows\Тема 26.AssemblyInfo.cs
+C:\Users\a6660\Desktop\ \!Practisch\D26\3\obj\Debug\net6.0-windows\Тема 26.csproj.CoreCompileInputs.cache
+C:\Users\a6660\Desktop\ \!Practisch\D26\3\obj\Debug\net6.0-windows\Тема 26.dll
+C:\Users\a6660\Desktop\ \!Practisch\D26\3\obj\Debug\net6.0-windows\refint\Тема 26.dll
+C:\Users\a6660\Desktop\ \!Practisch\D26\3\obj\Debug\net6.0-windows\Тема 26.pdb
+C:\Users\a6660\Desktop\ \!Practisch\D26\3\obj\Debug\net6.0-windows\Тема 26.genruntimeconfig.cache
+C:\Users\a6660\Desktop\ \!Practisch\D26\3\obj\Debug\net6.0-windows\ref\Тема 26.dll
